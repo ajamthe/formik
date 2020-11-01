@@ -1,0 +1,15 @@
+- request:
+    url: /api/alpha
+    method: POST
+  response:
+    status: 201
+
+- request:
+    url: /api/alpha
+    method: GET
+  response:
+    status: 200
+    body: ok
+
+  
+
