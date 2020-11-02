@@ -1,0 +1,19 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "reference": "REF-001",
+        "client": "Kumar, Alok",
+        "product": "Product A",
+        "status": "DRAFT"
+      },
+      {
+        "id": 2,
+        "reference": "REF-002",
+        "client": "Sample, Sam", 
+        "product": "Product B",
+        "status": "SUBMITTED"
+      }
+    ]
+  }
+    

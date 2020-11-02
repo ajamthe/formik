@@ -9,7 +9,10 @@
     method: GET
   response:
     status: 200
-    body: ok
+    # latency: 1000
+    headers:
+      content-type: application/json
+    file: draft-list.json
 
   
 

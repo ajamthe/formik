@@ -23,6 +23,7 @@
     "eject": "react-scripts eject",
     "stubby": "/usr/local/bin/stubby -d stubby.yml"
   },
+  "proxy": "https://localhost:7443/api/alpha",
   "eslintConfig": {
     "extends": [
       "react-app",
